@@ -20,9 +20,6 @@ An automated License Plate Recognition system built with **Python**, **YOLOv11**
 * `requirements.txt`: List of Python dependencies.
 * `plate_log.csv`: The generated database of detected vehicles.
 
-## 📸 Sample Detection
-![Detection Result](test_car.jpg)
-*Detection and extraction of vehicle identification data.*
 
 ## 🚀 Getting Started
 1. **Clone the repo:**
