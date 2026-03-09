@@ -1,6 +1,6 @@
 # 🚗 Vehicle License Plate Detector (ALPR)
 
-An automated License Plate Recognition system built with **Python**, **YOLOv11**, and **EasyOCR**. This project localizes vehicle license plates in images and extracts the alphanumeric text into a structured format.
+An automated License Plate Recognition system built with **Python**, **YOLOv11**, and **EasyOCR**. This project localizes vehicle license plates in images and extracts the alphanumeric text into a structured format. Developed as part of my final year BCA portfolio at the **University of Mysore**.
 
 ## 🌟 Key Features
 * **Object Detection:** Leverages YOLOv11 for high-precision vehicle and plate localization.
@@ -17,7 +17,12 @@ An automated License Plate Recognition system built with **Python**, **YOLOv11**
 * `main.py`: The core logic for detection and OCR.
 * `test.jpg`: Sample image for testing the detection pipeline.
 * `.gitignore`: Prevents heavy AI weights and environments from being uploaded.
+* `requirements.txt`: List of Python dependencies.
 * `plate_log.csv`: The generated database of detected vehicles.
+
+## 📸 Sample Detection
+![Detection Result](test_car.jpg)
+*Detection and extraction of vehicle identification data.*
 
 ## 🚀 Getting Started
 1. **Clone the repo:**
